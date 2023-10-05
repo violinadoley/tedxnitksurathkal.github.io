@@ -1,40 +1,40 @@
-export const CODE = 'MOSAIC';
+export const CODE = 'ABCDEF';
 
 export const IMAGEMAP = {
-  M: {
-    1: 'Mouse',
-    2: 'Milk',
-    3: 'Money',
-    4: 'Mango',
-  },
-  O: {
-    1: 'Orange',
-    2: 'Onion',
-    3: 'Octopus',
-    4: 'Owl',
-  },
-  S: {
-    1: 'Snail',
-    2: 'Snake',
-    3: 'Ship',
-    4: 'Soap',
-  },
   A: {
-    1: 'Apple',
-    2: 'Ant',
-    3: 'Airplane',
-    4: 'Ambulance',
+    1: 'A',
+    2: 'B',
+    3: 'C',
+    4: 'D',
   },
-  I: {
-    1: 'Ice-cream',
-    2: 'Ink',
-    3: 'Ice',
-    4: 'Iron',
+  B: {
+    1: 'A',
+    2: 'B',
+    3: 'C',
+    4: 'D',
   },
   C: {
-    1: 'Cherry',
-    2: 'Cake',
-    3: 'Carrot',
-    4: 'Cheese',
+    1: 'A',
+    2: 'B',
+    3: 'C',
+    4: 'D',
+  },
+  D: {
+    1: 'A',
+    2: 'B',
+    3: 'C',
+    4: 'D',
+  },
+  E: {
+    1: 'A',
+    2: 'B',
+    3: 'C',
+    4: 'D',
+  },
+  F: {
+    1: 'A',
+    2: 'B',
+    3: 'C',
+    4: 'D',
   },
 };
